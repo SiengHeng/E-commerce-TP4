@@ -1,0 +1,1 @@
+This is a placeholder for the screenshot. I was unable to capture the actual screenshot of the running application.
